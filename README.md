@@ -4,6 +4,7 @@ Deep learning project
 Since the data and model part are too large, thus we put google drive link here for you to check~ Sorry for the inconvenience :)
 
 We need to put data and model under the directory of DL_Project (DL_Project/)
+
 data: https://drive.google.com/drive/folders/1Ht6IdJ2sUg4bXAb5UxO-tml-BcJe5gQF?usp=sharing
 
 model: https://drive.google.com/drive/folders/1UagRfb2dqNuYJU2Y2N6g1_Jh-BlfGvI8?usp=sharing
