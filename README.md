@@ -5,9 +5,9 @@ Since the data and model part are too large, thus we put google drive link here 
 
 We need to put data and model under the directory of DL_Project (DL_Project/)
 
-data: https://drive.google.com/drive/folders/1Ht6IdJ2sUg4bXAb5UxO-tml-BcJe5gQF?usp=sharing
+data: https://drive.google.com/drive/folders/18lxoxQrSl8wb1Vk8edprl2kD4l2_FMgj?usp=sharing
 
-model: https://drive.google.com/drive/folders/1UagRfb2dqNuYJU2Y2N6g1_Jh-BlfGvI8?usp=sharing
+model: https://drive.google.com/drive/folders/1lrItNxUieTO2RpFDO_ZJ7N9_hoA44Box?usp=sharing
 
 
 Here still exists serveral pth files and we need to put them into right directory.
